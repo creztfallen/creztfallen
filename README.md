@@ -20,7 +20,7 @@
 
 - :zap: I'm a languages enthusiast, which means I love learning languages. It simply means I like to do it, not that I am good at it. I can currently speak **Brazilian Portuguese**, **English** and **Turkish**.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Mateus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-de-souza-moreno-14b3a5205/)
+- :mailbox:How to reach me: mtssmoreno@gmail.com
 
 ---
 
