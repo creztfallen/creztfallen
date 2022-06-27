@@ -20,7 +20,7 @@
 
 - :zap: I'm a languages enthusiast, which means I love learning languages. It simply means I like to do it, not that I am good at it. I can currently speak **Brazilian Portuguese**, **English** and **Turkish**.
 
-- :mailbox:How to reach me: mtssmoreno@gmail.com
+- :mailbox: How to reach me: mtssmoreno@gmail.com
 
 ---
 
