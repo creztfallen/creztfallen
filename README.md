@@ -13,8 +13,8 @@
 
 ---
 
-### :man_technologist: About Me : I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
-- :telescope: Well, I'm a Node.js Back-end developer currently working on my own projects seeking improvement.
+### :man_technologist: About Me : I am a **Back-end** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Brazil**.
+- :telescope: Well, I'm a **Node.js** Back-end developer currently working on my own projects seeking improvement.
 
 - :seedling: I'm just starting, so every tip, advice or any other kind of help will be appreciated.
 
