@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ height="35" width="170">
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=creztfallen&style=flat-square&color=blue" alt="" height="35" width="170" />
   <h1>
   Hey there! 👋
 </h1>
