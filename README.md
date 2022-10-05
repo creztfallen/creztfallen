@@ -13,9 +13,9 @@
 ---
 
 ### :man_technologist: About Me : I am a **Back-end** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Brazil**.
-- :telescope: Well, I'm a **Node.js** Back-end developer currently working on my own projects seeking improvement.
+- :telescope: Well, I'm a **Node.js** Back-end developer currently working on my own projects, seeking improvement and heading towards a career in cybersec.
 
-- :seedling: I'm just starting, so every tip, advice or any other kind of help will be appreciated.
+- :seedling: I have the most powerful raw will power you'll ever see in your life.
 
 - :zap: I'm a languages enthusiast, which means I love learning languages. It simply means I like to do it, not that I am good at it. I can currently speak **Brazilian Portuguese**, **English** and **Turkish**.
 
