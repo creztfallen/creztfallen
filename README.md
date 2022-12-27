@@ -12,7 +12,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a **Back-end** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Brazil**.
+### :man_technologist: About Me : I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Brazil**.
 - :telescope: Well, I'm currently working as software developer, seeking improvement and heading towards a career in DevOps.
 
 - :seedling: I have the strongest raw will power you'll ever see in your life.
