@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height = "350" width="350"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height = "450" width="500"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mateus-de-souza-moreno-14b3a5205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ height="35" width="170">
