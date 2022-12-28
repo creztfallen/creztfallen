@@ -2,7 +2,7 @@
   <img src="https://giffiles.alphacoders.com/146/14685.gif" height = "400" width="700"/>
   <br />
   <h1>
-  Hey there! 👋
+  Praise The Sun!🌞
 </h1>
 </div>
 
