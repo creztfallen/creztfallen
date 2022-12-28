@@ -1,10 +1,6 @@
 <div id="header" align="center">
   <img src="https://giffiles.alphacoders.com/146/14685.gif" height = "400" width="700"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/mateus-de-souza-moreno-14b3a5205/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ height="35" width="170">
-  </a>
-</div>
+  <br />
   <h1>
   Hey there! 👋
 </h1>
@@ -19,7 +15,7 @@
 
 - :zap: I'm a languages enthusiast, which means I love learning languages. It simply means I like to do it, not that I am good at it. I can currently speak **Brazilian Portuguese**, **English** and **Turkish**.
 
-- :mailbox: How to reach me: mtssmoreno@gmail.com
+- :mailbox: How to reach me: mtssmoreno@gmail.com --- https://www.linkedin.com/in/mateus-moreno-14b3a5205/
 
 ---
 
