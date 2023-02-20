@@ -41,4 +41,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=creztfallen&theme=gotham)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creztfallen&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=creztfallen&show_icons=true"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=creztfallen&show_icons=true&theme=gotham"/> 
