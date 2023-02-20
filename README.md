@@ -38,7 +38,7 @@
 ---
 
 ### :fire: My Stats :
-<div style="display:flex; align-items:center; justify-content:center;">
+<div style="display:flex;">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=creztfallen&theme=gotham)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=creztfallen&show_icons=true&theme=gotham"/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creztfallen&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
