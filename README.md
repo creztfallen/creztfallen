@@ -1,3 +1,5 @@
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/432780e4-f104-4387-987f-8611d44dc1c4/d8vxmac-3d69736c-d403-4abe-b1e6-37a9ad481591.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzMjc4MGU0LWYxMDQtNDM4Ny05ODdmLTg2MTFkNDRkYzFjNFwvZDh2eG1hYy0zZDY5NzM2Yy1kNDAzLTRhYmUtYjFlNi0zN2E5YWQ0ODE1OTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.drmD-cRLShRM7wa5e_6sbeGeg_q6uKg8VSsRZrQy8Us
+
 # 💫 About Me:
 🔭 Well, I'm currently working as a software developer, creating amazing software. <br>👯 I’m looking to collaborate on back-end and cloud solutions.<br>🌱 I’m currently learning Angular.js, Azure, C# and .Net.<br>⚡ I'm a language enthusiast, which means I love learning languages. I can currently speak Brazilian Portuguese, English and Turkish.
 
