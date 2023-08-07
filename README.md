@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Well, I'm currently working as a software developer, creating amazing software. <br>👯 I’m looking to collaborate on back-end and cloud solutions.<br>🌱 I’m currently learning Angular.js, Azure, C# and .Net.<br>⚡ I'm a language enthusiast, which means I love learning languages. I can currently speak Brazilian Portuguese, English and Turkish.
+🔭 Well, I'm currently working as a software developer, creating amazing software. <br>👯 I’m looking to collaborate on back-end and cloud solutions.<br>🌱 I’m currently learning Azure, C# and .Net.<br>⚡ I'm a language enthusiast, which means I love learning languages. I can currently speak Brazilian Portuguese, English and Turkish.
 
 
 ## 🌐 Socials:
