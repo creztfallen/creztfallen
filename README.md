@@ -1,3 +1,7 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/AQRapWCgC7dThyVEYb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bandainamco-dark-souls-dsr-remastered-AQRapWCgC7dThyVEYb">via GIPHY</a></p>
+
+#Praise The Sun!
+
 # 💫 About Me:
 🔭 Well, I'm currently working as a software developer, creating amazing software. <br>👯 I’m looking to collaborate on back-end and cloud solutions.<br>🌱 I’m currently learning elixir.<br>⚡ I'm a language enthusiast, which means I love learning languages. I can currently speak Brazilian Portuguese, English and Turkish.
 
