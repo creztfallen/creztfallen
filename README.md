@@ -1,4 +1,4 @@
-[https://giphy.com/embed/AQRapWCgC7dThyVEYb](https://media.giphy.com/media/AQRapWCgC7dThyVEYb/giphy.gif)
+![](https://media.giphy.com/media/AQRapWCgC7dThyVEYb/giphy.gif)
 
 #Praise The Sun!
 
