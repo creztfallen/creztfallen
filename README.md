@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/d9/1a/a7/d91aa7a832a4acad8d6a9bb8cf465f88.gif)
+![](https://i.pinimg.com/originals/fb/5b/48/fb5b48cd0d259376d6fcd35ab8404cbf.gif)
 
 # Praise The Sun!
 
