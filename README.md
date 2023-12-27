@@ -1,4 +1,4 @@
-![hippo](https://giphy.com/embed/AQRapWCgC7dThyVEYb)
+https://giphy.com/embed/AQRapWCgC7dThyVEYb
 
 #Praise The Sun!
 
