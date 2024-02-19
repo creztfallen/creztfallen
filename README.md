@@ -2,10 +2,6 @@
 
 # Praise The Sun!
 
-# 💫 About Me:
-🔭 Well, I'm currently working as a software developer, creating amazing software. <br>👯 I’m looking to collaborate on back-end and cloud solutions.<br>🌱 I’m learning gRPC.<br>⚡ I'm a language enthusiast, which means I love learning languages. I can currently speak Brazilian Portuguese, English and Turkish.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mtssmoreno) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ms-moreno) 
